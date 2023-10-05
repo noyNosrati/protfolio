@@ -5,10 +5,9 @@ export default function About() {
     const cvFile = '../public/cv/NoyNosrati_Fullstack.pdf'; // Replace with the actual path to your CV file
 
     return (
-        // <div className='min-h-[200px] md:flex items-center max-w-[800px] m-auto'>
         <>
-            <div className='text-center lg:items-center justify-center mt-20 lg:p-0 md:pl-20 m-auto lg:block md:flex mb-16'>
-                <div className='lg:w-full md:w-2/6'>
+            <div id='about' className='text-center lg:items-center justify-center pt-20 lg:pl-0 md:pl-20 m-auto lg:block md:flex mb-5'>
+                <div className='lg:w-full md:w-2/6  lg:text-center md:text:start lg:pl-0 md:pl-4'>
                     <h2 className='text-4xl font-bold  text-[#001b5e] lg:pb-12 pb-7'>About Me</h2>
                     <button className="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded inline-flex items-center">
                         <svg className="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z" /></svg>
@@ -17,9 +16,9 @@ export default function About() {
                         </a>
                     </button>
                 </div>
-                <div className='lg:pr-8 lg:w-full lg:pt-12 md:w-4/6'> <p className='pb-12 pt-7 md:pt-0 px-5'>Motivated fullstack developer with expertise in JavaScript framework (React.js,
+                <div className='lg:w-full lg:pt-12 md:w-4/6'> <p className='pb-12 pt-7 md:pt-0 px-5'>Motivated fullstack developer with expertise in JavaScript framework (React.js,
                     Node.js), MongoDB,
-                    HTML, and CSS. Passionate about learning and adopting newtechnologies. Seeking an exciting opportunity in fullstack development.</p>
+                    HTML, and CSS. Passionate about learning and adopting new technologies. Seeking an exciting opportunity in fullstack development :)</p>
                     <div className='flex w-20 items-center justify-between m-auto'>
                         <div className="group relative">
                             <a href='https://github.com/noyNosrati' target='_blank'>

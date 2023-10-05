@@ -4,7 +4,7 @@ export default function Skills() {
 
     return (
         <div className='py-20'>
-            <h1 className='mb-28 text-4xl font-bold text-center text-[#001b5e]'>Skills</h1>
+            <h2 className='mb-28 text-4xl font-bold text-center text-[#001b5e]'>Skills</h2>
             <div className="main m-auto my-auto">
                 <div className="card">
                     <img

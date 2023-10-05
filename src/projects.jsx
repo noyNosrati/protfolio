@@ -9,7 +9,7 @@ import allCountriesPic from '../public/img/allCountries.png'
 export default function Projects() {
   return (
     <div id='projects' className='max-w-[1040px] m-auto md:pl-20 p-2 py-16'>
-        <h1 className='text-4xl font-bold text-center text-[#001b5e]'>Projects</h1>
+        <h2 className='text-4xl font-bold text-center text-[#001b5e]'>Projects</h2>
         <p className='text-center py-8'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione delectus nulla excepturi optio! Est veniam impedit commodi debitis quo placeat.</p>
         <div className='grid md:grid-cols-2 gap-12'>
         {/* <ProjectItem img={stripProtfolio} title={"ChillSpace"} skills={"React | Node.js | MongoDB | Bootstrap"} text={"A user-friendly social app for outdoor recreation exploration"} pLink={"https://chillspacee.netlify.app/"} gitLink={"https://github.com/noyNosrati/chillSpace_client"}/> */}

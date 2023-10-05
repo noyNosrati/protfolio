@@ -1,6 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+  }
+
 /* contact */
 .b_glow {
     /* box-shadow: 0 0 15px #36176d; */
@@ -13,9 +18,6 @@
     box-shadow: 0 0 15px 2813a0;
 }
 
-* {
-scroll-behavior: smooth;
-}
 /* skills */
 .main_back {
     position: absolute;

@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.b_glow {
+    /* box-shadow: 0 0 15px #36176d; */
+    box-shadow: 0 0 10px #2e0772;
+}
+.neno-button {
+    transition: all 0.3s ease-in-out;
+}
+.neno-button:hover {
+    box-shadow: 0 0 15px indigo;
+}
+
+* {
+scroll-behavior: smooth;
+}

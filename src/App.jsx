@@ -5,6 +5,7 @@ import SideNav from './sideNav'
 import Strip from './strip'
 import Projects from './projects'
 import { Contact } from './contact'
+import Skills from './skills'
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
    <div>
   <SideNav/>
   <Strip/>
+  <Skills/>
   <Projects/>
   <Contact/>
    </div>

@@ -9,8 +9,8 @@ export default function Strip() {
             <div className='w-full h-screen absolute left-0 top-0 bg-white/30  '>
                 <div className='w-full h-full max-w-[1200px] m-auto flex flex-col  justify-center items-start pl-3'>
                     <div className='md:pl-20'>
-                        <h1 className='sm:text-2xl text-1xl'>Hello, it's me</h1>
-                        <h2 className='p-[10px] sm:text-5xl text-4xl font-bold text-gray-800'>Noy Nosrati</h2>
+                        <h2 className='sm:text-2xl text-1xl'>Hello, it's me</h2>
+                        <h1 className='p-[10px] sm:text-5xl text-4xl font-bold text-gray-800'>Noy Nosrati</h1>
                         <h5 className='flex sm:text-3xl text-2xl text-gray-800'>
                             <TypeAnimation
                                 sequence={[

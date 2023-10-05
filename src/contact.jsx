@@ -18,7 +18,7 @@ export const Contact = () => {
     return (
         <div id='contact' className='p-4 lg:p-20 flex flex-col items-center justify-center'>
             {/* <h1 className="text-[52px] font-semibold mb-20 leading-normal uppercase text-[#341d5c]">Contact Me</h1> */}
-            <h1 className='text-4xl font-bold text-center text-[#001b5e] mb-10'>Contact Me</h1>
+            <h2 className='text-4xl font-bold text-center text-[#001b5e] mb-10'>Contact Me</h2>
 
             <form ref={form} onSubmit={sendEmail} className="flex flex-col gap-2 lg:w-1/2">
                 <div className="lg:flex gap-9">

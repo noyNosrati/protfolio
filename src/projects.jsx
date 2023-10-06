@@ -1,6 +1,5 @@
 import React from 'react'
 import ProjectItem from './projectItem'
-import stripProtfolio from '../public/img/stripProtfolio.jpeg'
 import chillSpacePic from '../public/img/ChillSpace.png'
 import booksApiPic from '../public/img/booksApi.png'
 import tutoroPic from '../public/img/tutoro.png'

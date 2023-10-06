@@ -321,6 +321,9 @@
     z-index: 3;
   }
   @media (max-width: 480px) {
+    .skillsH2{
+      margin-bottom: 56px;
+    }
     .main_back {
         width: 31em;
         height: 17em;

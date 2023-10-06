@@ -4,8 +4,8 @@ export default function Skills() {
 
     return (
         <div className='lg:py-20 py-14'>
-            <h2 className='mb-24 text-4xl font-bold text-center text-[#001b5e]'>Skills</h2>
-            <div className="main m-auto my-auto">
+            <h2 className='mb-24 skillsH2 text-4xl font-bold text-center text-[#001b5e]'>Skills</h2>
+            <div className="main m-auto">
                 <div className="card">
                     <img
                         className="html"

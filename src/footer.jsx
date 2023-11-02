@@ -11,7 +11,7 @@ export default function Footer() {
                             <li className='w-1/2'><a href="#about" className="text-gray-300 hover:text-white">ABOUT</a></li>
                             <li className='w-1/2'><a href="#" className="text-gray-300 hover:text-white">HOME</a></li>
                             <li className='w-1/2'><a href="#projects" className="text-gray-300 hover:text-white">PROJECTS</a></li>
-                            <li className='w-1/2'><a href="#contact" className="text-gray-300 hover:text-white">CONTACT</a></li>
+                            <li className='w-1/2'><a href="#contact" className="text-gray-300 hover:text-white">CONTACT</a> </li>
                         </ul>
                     </div>
                     <div className="sm:w-1/3 text-start  sm:p-0 pt-2">

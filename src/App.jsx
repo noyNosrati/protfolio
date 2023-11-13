@@ -18,8 +18,8 @@ function App() {
       <Strip />
       <div className='max-w-[1400px] mx-auto'>
         <div className='lg:flex items-start  justify-center'>
-          <div className='lg:w-2/5'><About /></div>
-          <div className='lg:w-2/5'><Skills /></div>
+          <div className='lg:w-2/5'><About /> </div>
+          <div className='lg:w-2/5'><Skills /> </div>
         </div>
         <Projects />
         <Contact />
